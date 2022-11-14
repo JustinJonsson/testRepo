@@ -109,6 +109,12 @@ teams:
     permission: push
 
 branches:
+  - name: waster
+    protection:
+      required_pull_request_reviews: 1
+      required_approving_review_count: 1
+      dismiss_stale_reviews: true
+      require_code_owner_reviews: true
   - name: master
     # https://docs.github.com/en/rest/reference/repos#update-branch-protection
     # Branch Protection settings. Set to null to disable
