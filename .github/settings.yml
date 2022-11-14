@@ -7,7 +7,7 @@ repository:
   name: testRepo
 
   # A short description of the repository that will show up on GitHub
-  description: repo in which I test stuff out
+  description: repo in which I test stuff out, repeatedly
 
   # A URL with more information about the repository
   homepage: https://github.com/JustinJonsson/testRepo
