@@ -67,6 +67,11 @@ labels:
     # If including a `#`, make sure to wrap it with quotes!
     color: '#336699'
     description: New functionality.
+    
+  - name: task
+    # If including a `#`, make sure to wrap it with quotes!
+    color: 00CC00
+    description: A thing to do.
 
   - name: Help Wanted
     # Provide a new name to rename an existing label
